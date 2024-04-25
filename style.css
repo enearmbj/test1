@@ -1,0 +1,54 @@
+.A{
+    width: 30px;
+  border: 15px solid green; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+
+}
+.B{
+    width: 30px;
+  border: 15px solid black; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+}
+.C{
+    width: 30px;
+  border: 15px solid yellow; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+}
+.D{
+    width: 30px;
+  border: 15px solid purple; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+}
+.E{
+    width: 30px;
+  border: 15px solid blue; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+}
+.F{
+    width: 30px;
+  border: 15px solid red; 
+  padding: 50px ;
+  margin: 20px;
+height: 50;
+}
+.ctrl{
+    display: flex;
+}
+.index{
+    display: flex;
+}
+#krejt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
